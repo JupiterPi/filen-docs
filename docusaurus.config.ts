@@ -143,7 +143,7 @@ const config: Config = {
 						},
 						{
 							label: "Docs",
-							href: "https://github.com/JupiterPi/filen-docs"
+							href: "https://github.com/FilenCloudDienste/filen-docs"
 						}
 					]
 				}

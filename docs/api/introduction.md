@@ -11,7 +11,7 @@ The Filen API is used by our first-party clients, and it is publicly documented 
 
 The Filen API can do everything our first-party clients can, which includes uploading and downloading files, managing files and directories, sharing items, accessing notes and contacts, having chat conversations, managing user-specific settings, and more.
 
-:::info SKDs
+:::info SDKs
 
 If you're building an application written in JavaScript or TypeScript, we recommend using our [TypeScript SDK](https://github.com/FilenCloudDienste/filen-sdk-ts), which provides developer-friendly wrappings of all API endpoints, and more.
 
