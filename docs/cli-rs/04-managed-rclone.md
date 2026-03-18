@@ -1,6 +1,6 @@
 # Managed Rclone
 
-The Filen CLI includes a managed installation of [filen-rclone](https://github.com/FilenCloudDienste/filen-rclone).
+The Filen CLI includes a managed installation of [rclone](https://rclone.org/) with native Filen support.
 It is automatically downloaded and configured (authenticated) when you run the commands like `rclone`, `mount`, etc.
 
 > `rclone [CMD]...`  
@@ -26,5 +26,9 @@ It is automatically downloaded and configured (authenticated) when you run the c
 > 🠊 `--cache-size <CACHE_SIZE>` The maximum cache size (e.g. "500Mi", "10Gi") (default: calculated from available disk space)  
 > 🠊 `--transfers <TRANSFERS>` The number of parallel transfers
 
-> `export-api-key`  
+> `export-api-key`
 > Exports your user API key (for use with non-managed Rclone)
+
+:::info
+The API key from `export-api-key` is **not** your login password. It is required when setting up [standalone rclone](https://rclone.org/filen/) outside of the managed CLI. The managed rclone handles authentication automatically.
+:::

@@ -22,7 +22,7 @@ info:
         ```
 
         ### Format of timestamps
-        Some endpoints (where noted) provide timestamps that are *either in milliseconds or in seconds*. To handle them correctly, a calculation like this might be helpful: A timestamp is in millseconds if `Math.abs(millisecondsNow - timestamp) < Math.abs(millisecondsNow - timestamp * 1000)`, otherwise it is in seconds. Please refer the the official TypeScript SDK when to use timestamps in seconds or milliseconds.
+        Some endpoints (where noted) provide timestamps that are *either in milliseconds or in seconds*. To handle them correctly, a calculation like this might be helpful: A timestamp is in milliseconds if `Math.abs(millisecondsNow - timestamp) < Math.abs(millisecondsNow - timestamp * 1000)`, otherwise it is in seconds. Please refer to the official TypeScript SDK when to use timestamps in seconds or milliseconds.
 
         ### Undocumented endpoints
         There are a number of endpoints whose specifics are not documented here.

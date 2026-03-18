@@ -1,6 +1,6 @@
 # Filen Developer Docs
 
-![Contributors](https://img.shields.io/github/contributors/JupiterPi/filen-docs?color=dark-green) ![Forks](https://img.shields.io/github/forks/JupiterPi/filen-docs?style=social) ![Stargazers](https://img.shields.io/github/stars/JupiterPi/filen-docs?style=social) ![Issues](https://img.shields.io/github/issues/JupiterPi/filen-docs) ![License](https://img.shields.io/github/license/JupiterPi/filen-docs)
+![Contributors](https://img.shields.io/github/contributors/FilenCloudDienste/filen-docs?color=dark-green) ![Forks](https://img.shields.io/github/forks/FilenCloudDienste/filen-docs?style=social) ![Stargazers](https://img.shields.io/github/stars/FilenCloudDienste/filen-docs?style=social) ![Issues](https://img.shields.io/github/issues/FilenCloudDienste/filen-docs) ![License](https://img.shields.io/github/license/FilenCloudDienste/filen-docs)
 
 > [!IMPORTANT]
 > The Docs are still work in progress.

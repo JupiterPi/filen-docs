@@ -5,7 +5,7 @@ slug: /sdk/file-system
 
 # File System
 
-The SDK provides a virtual file system class which closely follows the "Node.js style of accessing the local file system". You can create files, read or directories, delete items, create streams and much more.
+The SDK provides a virtual file system class which closely follows the "Node.js style of accessing the local file system". You can create files, read directories, delete items, create streams and much more.
 
 :::tip Refer to generated SDK docs
 
