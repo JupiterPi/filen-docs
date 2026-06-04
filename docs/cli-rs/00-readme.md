@@ -4,7 +4,7 @@
 
 The Filen CLI provides a set of useful tools for interacting with your Filen cloud drive, like managing files and directories.
 Start it without specifying a command to enter interactive mode.
-For now, syncing, drive mounting, etc. are available through the managed [Filen Rclone](https://github.com/FilenCloudDienste/filen-rclone).
+For now, syncing, drive mounting, etc. are available through the managed Rclone, which [accesses Filen](https://rclone.org/filen).
 
 > [!WARNING]
 > **Public Beta:**
@@ -32,6 +32,6 @@ The CLI includes an automatic updater.
 
 You can find documentation from within the CLI using the `help` subcommand and at [docs.filen.io](https://docs.filen.io/docs/cli-rs/readme/).
 
-<!-- v0.2.5 -->
+<!-- v0.2.6 -->
 
-<small style={{opacity: 0.5}}>Documentation for Filen CLI **v0.2.5**</small>
+<small style={{opacity: 0.5}}>Documentation for Filen CLI **v0.2.6**</small>
