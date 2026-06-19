@@ -30,8 +30,8 @@ The CLI includes an automatic updater.
 
 ## Documentation
 
-You can find documentation from within the CLI using the `help` subcommand and at [docs.filen.io](https://docs.filen.io/docs/cli-rs/readme/).
+You can find documentation from within the CLI using the `help` or `view-html-docs` subcommand and at [docs.filen.io](https://docs.filen.io/docs/cli-rs/readme/).
 
-<!-- v0.2.6 -->
+<!-- v0.2.7 -->
 
-<small style={{opacity: 0.5}}>Documentation for Filen CLI **v0.2.6**</small>
+<small style={{opacity: 0.5}}>Documentation for Filen CLI **v0.2.7**</small>
